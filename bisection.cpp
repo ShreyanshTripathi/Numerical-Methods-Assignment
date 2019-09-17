@@ -5,7 +5,6 @@ using namespace std::chrono;
 using namespace std;
 
 
-
 double function(double x)
 {
   return pow(x,3)-cos(x+3)+50;

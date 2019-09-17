@@ -17,7 +17,7 @@ void regulafalsi(double a,double b,double error)
 
   if (function(a) * function(b) > 0)
   {
-    cout<< "Please enter correct points";
+    cout<< "Please enter correct points such that f(a).f(b) < 0";
     return;
   }
   
